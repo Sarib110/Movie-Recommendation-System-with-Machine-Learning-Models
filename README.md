@@ -15,10 +15,6 @@ This project has a little something for everyone:
    - K-Means Clustering to group similar users for better recommendations.  
 - **Visual Goodies:** Heatmaps, word clouds, and bar plots that make understanding the data both fun and insightful.  
 
-## Why I Built This  
-
-Movies are more than entertainment; they’re a way to connect, relax, and explore. But finding the *right* movie? That’s tricky. I built this system to make movie recommendations smarter, faster, and more tailored to individual tastes.  
-
 ## How to Use  
 
 ### What You’ll Need  
